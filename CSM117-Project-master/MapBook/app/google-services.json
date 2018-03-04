@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773853450138",
+    "firebase_url": "https://mapbook-809e3.firebaseio.com",
+    "project_id": "mapbook-809e3",
+    "storage_bucket": "mapbook-809e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773853450138:android:6f32120c9172252d",
+        "android_client_info": {
+          "package_name": "com.mapbook.mapbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773853450138-mvd99hutcnoc114oks4r5iauc851j14t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mapbook.mapbook",
+            "certificate_hash": "71470eea4b2e0b100956999776668fc28b6ea3e9"
+          }
+        },
+        {
+          "client_id": "773853450138-obs5fo2fkfuhedkvncqre2m12tg8801r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK8J7-G1HHfo1kP7r4E2SFB8m28qX1D6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773853450138-obs5fo2fkfuhedkvncqre2m12tg8801r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
